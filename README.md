@@ -2,6 +2,7 @@
 Brain age prediction from MRI scans uses machine learning to estimate a person's age based on brain imaging data. It uncovers relationships between brain structure and age, aiding in understanding brain development, aging, and age-related disorders.
 
 #Work Plan
+
 Predicting brain age from MRI scans is a complex task that typically involves applying machine learning techniques to analyze and interpret brain imaging data. Here's a general work plan for approaching this task:
 
 1. Data Collection:
